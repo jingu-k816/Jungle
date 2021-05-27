@@ -1,0 +1,8 @@
+<tr>
+  <td>
+    <h5><%= category.name %></h5>
+  </td>
+  <td>
+    <h5><%= link_to product_count[category.id] || 0,  category_path(category.id)%></h5>
+  </td>
+</tr>

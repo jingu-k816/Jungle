@@ -4,8 +4,9 @@ A mini e-commerce application built with Rails 4.2 for purposes of teaching Rail
 
 ## Features
 - Browsing the app
-!["Browing the app"](https://github.com/jingu-k816/jungle/docs/browse.gif "Main page browser")
+!["Browing the app"](https://github.com/jingu-k816/Jungle/blob/master/docs/browse.gif "Main page browser")
 - Check out page
+!["Checkout page"](https://github.com/jingu-k816/Jungle/blob/master/docs/checkout.gif "Checkout page")
 
 ## Additional Steps for Apple M1 Machines
 

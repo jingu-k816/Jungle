@@ -2,6 +2,11 @@
 
 A mini e-commerce application built with Rails 4.2 for purposes of teaching Rails by example.
 
+## Features
+- Browsing the app
+!["Browing the app"](https://github.com/jingu-k816/jungle/docs/browse.gif "Main page browser")
+- Check out page
+
 ## Additional Steps for Apple M1 Machines
 
 1. Make sure that you are runnning Ruby 2.6.6 (`ruby -v`)

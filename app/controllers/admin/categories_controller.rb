@@ -1,4 +1,4 @@
-class Admin::CategoriesController < ApplicationController
+class Admin::CategoriesController < Admin::BaseController
   def index
     @admin_categories = Category.order(id: :desc).all
     @product_count = Product.group(:category_id).count
